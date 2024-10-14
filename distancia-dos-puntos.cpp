@@ -5,6 +5,7 @@ int main (){
 
 double x1, x2, y1, y2, d;
   cout<<"feha 14/octubre/2024  "<<endl;
+  cout<<"autor: Victor Hugo Moreno Dominguez"<<endl;
   cout<<"Digite los numeros"<<endl;
   cout<<"digite x1"<<endl;
   cin>>x1;
